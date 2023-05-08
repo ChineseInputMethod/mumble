@@ -10,7 +10,7 @@
 
 ### 附录A
 
-注解Text Services Framework
+[注解Text Services Framework](https://github.com/ChineseInputMethod/TextServicesFramework)
 
 ### 附录B
 
