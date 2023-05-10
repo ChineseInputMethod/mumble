@@ -4,14 +4,10 @@
 
 ## 第二章 [一个简单的TSF输入法](https://github.com/ChineseInputMethod/TSFexample)
 
-- 2.1 [注册TSF输入法以及激活输入法的接口](https://github.com/ChineseInputMethod/TSFexample/tree/master/1BasicTextService)
+- 2.1 [BasicTextService](https://github.com/ChineseInputMethod/TSFexample/tree/master/1BasicTextService)
 
-- 2.2 [注册TSF输入法以及加载输入法的接口](https://github.com/ChineseInputMethod/TSFexample/tree/master/1BasicTextService)
+- 2.2 [TrackFocus](https://github.com/ChineseInputMethod/TSFexample/tree/master/2TrackFocus)
 
 ### 附录A
 
-[注解Text Services Framework](https://github.com/ChineseInputMethod/TextServicesFramework)
-
-### 附录B
-
-注解TSF文本服务文档
+[Text Services Framework](https://github.com/ChineseInputMethod/TextServicesFramework)
