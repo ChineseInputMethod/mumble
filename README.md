@@ -10,6 +10,8 @@
 
 - 2.3 [TrackTextChange](https://github.com/ChineseInputMethod/TSFexample/tree/master/3TrackTextChange)
 
+- 2.4 [IconInLanguageBar](https://github.com/ChineseInputMethod/TSFexample/tree/master/4IconInLanguageBar)
+
 #### 附录A
 
-[Text Services Framework](https://github.com/ChineseInputMethod/TextServicesFramework)
+[接口](https://github.com/ChineseInputMethod/Interface)
