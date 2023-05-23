@@ -12,6 +12,8 @@
 
 - 2.4 [IconInLanguageBar](https://github.com/ChineseInputMethod/TSFexample/tree/master/4IconInLanguageBar)
 
+- 2.5 [TextInsertion](https://github.com/ChineseInputMethod/TSFexample/tree/master/5TextInsertion)
+
 #### 附录A
 
 [接口](https://github.com/ChineseInputMethod/Interface)
