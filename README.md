@@ -14,6 +14,14 @@
 
 - 2.5 [TextInsertion](https://github.com/ChineseInputMethod/TSFexample/tree/master/5TextInsertion)
 
+- 2.6 [Keyboard](https://github.com/ChineseInputMethod/TSFexample/tree/master/6Keyboard)
+
+- 2.7 [Composition](https://github.com/ChineseInputMethod/TSFexample/tree/master/7Composition)
+
 #### 附录A
 
 [接口](https://github.com/ChineseInputMethod/Interface)
+
+#### 附录B
+
+[扩展](https://github.com/ChineseInputMethod/Extension)
