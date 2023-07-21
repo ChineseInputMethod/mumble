@@ -4,19 +4,7 @@
 
 ### 第二章 [一个简单的TSF输入法](https://github.com/ChineseInputMethod/TSFexample)
 
-- 2.1 [BasicTextService](https://github.com/ChineseInputMethod/TSFexample/tree/master/1BasicTextService)
-
-- 2.2 [TrackFocus](https://github.com/ChineseInputMethod/TSFexample/tree/master/2TrackFocus)
-
-- 2.3 [TrackTextChange](https://github.com/ChineseInputMethod/TSFexample/tree/master/3TrackTextChange)
-
-- 2.4 [IconInLanguageBar](https://github.com/ChineseInputMethod/TSFexample/tree/master/4IconInLanguageBar)
-
-- 2.5 [TextInsertion](https://github.com/ChineseInputMethod/TSFexample/tree/master/5TextInsertion)
-
-- 2.6 [Keyboard](https://github.com/ChineseInputMethod/TSFexample/tree/master/6Keyboard)
-
-- 2.7 [Composition](https://github.com/ChineseInputMethod/TSFexample/tree/master/7Composition)
+### 第三章 [一个完整的TSF输入法](https://github.com/ChineseInputMethod/SampleIME)
 
 #### 附录A
 
