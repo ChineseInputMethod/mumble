@@ -6,6 +6,8 @@
 
 ### 第三章 [一个完整的TSF输入法](https://github.com/ChineseInputMethod/SampleIME)
 
+### 第四章 [一个活跃的TSF输入法](https://github.com/ChineseInputMethod/weasel)
+
 #### 附录A
 
 [接口](https://github.com/ChineseInputMethod/Interface)
